@@ -30,8 +30,8 @@ header .logo
   position: relative;
   right: 0;
   width: 100%;
-  min-height: 100vh;
-  padding: 50px;
+  min-height: 80vh;
+  padding: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
